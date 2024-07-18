@@ -1,0 +1,9 @@
+services:
+  api:
+    image: nlpapi
+    container_name: nlpapi
+    environment:
+      - API_KEY=SuperSecretApiKey123121231233
+    ports:
+      - "44334:44334"
+    restart: always

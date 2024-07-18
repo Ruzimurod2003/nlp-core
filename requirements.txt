@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+torch
+tqdm
+scikit-learn
+transformers
+confuse
+numpy
+pydantic-cli
+dataclasses-serialization
